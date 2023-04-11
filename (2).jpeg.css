@@ -1,0 +1,17 @@
+@charset "utf-8";
+body {
+}
+
+
+@media (orientation:landscape){
+.img_float {
+	float: left;
+}
+html {
+}
+
+
+}
+
+@media screen{
+}
